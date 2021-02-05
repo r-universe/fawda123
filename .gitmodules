@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NeuralNetTools"]
+	path = NeuralNetTools
+	url = https://github.com/fawda123/neuralnettools
+	shallow = true
+[submodule "SWMPr"]
+	path = SWMPr
+	url = https://github.com/fawda123/swmpr
+	shallow = true
+[submodule "WRTDStidal"]
+	path = WRTDStidal
+	url = https://github.com/fawda123/wtreg_for_estuaries
+	shallow = true
