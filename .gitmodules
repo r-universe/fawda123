@@ -13,5 +13,5 @@
 	shallow = true
 [submodule "WRTDStidal"]
 	path = WRTDStidal
-	url = https://github.com/fawda123/wtreg_for_estuaries
+	url = https://github.com/fawda123/WRTDStidal
 	shallow = true
