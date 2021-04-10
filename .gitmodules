@@ -7,11 +7,14 @@
 	path = NeuralNetTools
 	url = https://github.com/fawda123/neuralnettools
 	shallow = true
+	registered = true
 [submodule "SWMPr"]
 	path = SWMPr
 	url = https://github.com/fawda123/swmpr
 	shallow = true
+	registered = true
 [submodule "WRTDStidal"]
 	path = WRTDStidal
 	url = https://github.com/fawda123/WRTDStidal
 	shallow = true
+	registered = true
