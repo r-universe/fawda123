@@ -8,13 +8,16 @@
 	url = https://github.com/fawda123/neuralnettools
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "SWMPr"]
 	path = SWMPr
 	url = https://github.com/fawda123/swmpr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "WRTDStidal"]
 	path = WRTDStidal
 	url = https://github.com/fawda123/WRTDStidal
 	shallow = true
 	registered = true
+	oncran = false
