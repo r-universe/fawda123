@@ -1,0 +1,14 @@
+[
+  {
+    "package": "NeuralNetTools",
+    "oncran": true
+  },
+  {
+    "package": "SWMPr",
+    "oncran": true
+  },
+  {
+    "package": "WRTDStidal",
+    "oncran": false
+  }
+]
