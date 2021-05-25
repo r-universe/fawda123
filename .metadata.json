@@ -1,5 +1,8 @@
 [
   {
+    "package": "rStrava"
+  },
+  {
     "package": "NeuralNetTools",
     "oncran": true
   },
@@ -8,7 +11,22 @@
     "oncran": true
   },
   {
-    "package": "WRTDStidal",
+    "package": "ggord"
+  },
+  {
+    "package": "WtRegDO"
+  },
+  {
+    "package": "imputeTestbench",
     "oncran": false
+  },
+  {
+    "package": "tbeptools"
+  },
+  {
+    "package": "wqtrends"
+  },
+  {
+    "package": "peptools"
   }
 ]

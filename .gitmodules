@@ -1,20 +1,50 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/fawda123/universe
 	shallow = true
 	branch = HEAD
+[submodule "rStrava"]
+	path = rStrava
+	url = https://github.com/fawda123/rStrava
+	shallow = true
+	registered = true
 [submodule "NeuralNetTools"]
 	path = NeuralNetTools
-	url = https://github.com/fawda123/neuralnettools
+	url = https://github.com/fawda123/NeuralNetTools
 	shallow = true
 	registered = true
 [submodule "SWMPr"]
 	path = SWMPr
-	url = https://github.com/fawda123/swmpr
+	url = https://github.com/fawda123/SWMPr
 	shallow = true
 	registered = true
-[submodule "WRTDStidal"]
-	path = WRTDStidal
-	url = https://github.com/fawda123/WRTDStidal
+[submodule "ggord"]
+	path = ggord
+	url = https://github.com/fawda123/ggord
+	shallow = true
+	registered = true
+[submodule "WtRegDO"]
+	path = WtRegDO
+	url = https://github.com/fawda123/WtRegDO
+	shallow = true
+	registered = true
+[submodule "imputeTestbench"]
+	path = imputeTestbench
+	url = https://github.com/fawda123/imputeTestbench
+	shallow = true
+	registered = true
+[submodule "tbeptools"]
+	path = tbeptools
+	url =  https://github.com/tbep-tech/tbeptools
+	shallow = true
+	registered = true
+[submodule "wqtrends"]
+	path = wqtrends
+	url =  https://github.com/tbep-tech/wqtrends
+	shallow = true
+	registered = true
+[submodule "peptools"]
+	path = peptools
+	url =  https://github.com/tbep-tech/peptools
 	shallow = true
 	registered = true
