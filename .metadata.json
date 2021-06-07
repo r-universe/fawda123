@@ -32,5 +32,9 @@
   },
   {
     "package": "WtRegDO"
+  },
+  {
+    "package": "micromap",
+    "oncran": false
   }
 ]
