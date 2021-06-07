@@ -49,6 +49,12 @@
 	url = https://github.com/tbep-tech/peptools
 	shallow = true
 	registered = true
+[submodule "WtRegDO"]
+	path = WtRegDO
+	url = https://github.com/fawda123/WtRegDO
+	shallow = true
+	branch = sine
+	registered = true
 [submodule "Jabbrev"]
 	path = Jabbrev
 	url = https://github.com/fawda123/Jabbrev
