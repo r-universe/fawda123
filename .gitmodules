@@ -23,12 +23,6 @@
 	url = https://github.com/fawda123/ggord
 	shallow = true
 	registered = true
-[submodule "WtRegDO"]
-	path = WtRegDO
-	url = https://github.com/fawda123/WtRegDO
-	shallow = true
-	branch = sine
-	registered = true
 [submodule "imputeTestbench"]
 	path = imputeTestbench
 	url = https://github.com/neerajdhanraj/imputeTestbench
@@ -36,7 +30,7 @@
 	registered = true
 [submodule "WRTDStidal"]
 	path = WRTDStidal
-	url = https://github.com/fawda123/WRTDStidal
+	url = https://github.com/fawda123/wtreg_for_estuaries
 	shallow = true
 	branch = v1.1.3
 	registered = true
