@@ -18,6 +18,10 @@
   },
   {
     "package": "imputeTestbench",
+    "oncran": true
+  },
+  {
+    "package": "WRTDStidal",
     "oncran": false
   },
   {

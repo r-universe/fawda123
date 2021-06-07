@@ -27,24 +27,31 @@
 	path = WtRegDO
 	url = https://github.com/fawda123/WtRegDO
 	shallow = true
+	branch = sine
 	registered = true
 [submodule "imputeTestbench"]
 	path = imputeTestbench
-	url = https://github.com/fawda123/imputeTestbench
+	url = https://github.com/neerajdhanraj/imputeTestbench
 	shallow = true
+	registered = true
+[submodule "WRTDStidal"]
+	path = WRTDStidal
+	url = https://github.com/fawda123/WRTDStidal
+	shallow = true
+	branch = v1.1.3
 	registered = true
 [submodule "tbeptools"]
 	path = tbeptools
-	url =  https://github.com/tbep-tech/tbeptools
+	url = https://github.com/tbep-tech/tbeptools
 	shallow = true
 	registered = true
 [submodule "wqtrends"]
 	path = wqtrends
-	url =  https://github.com/tbep-tech/wqtrends
+	url = https://github.com/tbep-tech/wqtrends
 	shallow = true
 	registered = true
 [submodule "peptools"]
 	path = peptools
-	url =  https://github.com/tbep-tech/peptools
+	url = https://github.com/tbep-tech/peptools
 	shallow = true
 	registered = true
