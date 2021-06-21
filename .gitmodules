@@ -32,7 +32,6 @@
 	path = WRTDStidal
 	url = https://github.com/fawda123/wtreg_for_estuaries
 	shallow = true
-	branch = v1.1.3
 	registered = true
 [submodule "tbeptools"]
 	path = tbeptools
