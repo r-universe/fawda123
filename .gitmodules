@@ -59,8 +59,3 @@
 	url = https://github.com/USEPA/micromap
 	shallow = true
 	registered = true
-[submodule "Jabbrev"]
-	path = Jabbrev
-	url = https://github.com/fawda123/Jabbrev
-	shallow = true
-	registered = false
