@@ -37,5 +37,8 @@
   {
     "package": "micromap",
     "oncran": false
+  },
+  {
+    "package": "EBASE"
   }
 ]

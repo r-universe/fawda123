@@ -59,3 +59,8 @@
 	url = https://github.com/USEPA/micromap
 	shallow = true
 	registered = true
+[submodule "EBASE"]
+	path = EBASE
+	url = https://github.com/fawda123/EBASE
+	shallow = true
+	registered = true
