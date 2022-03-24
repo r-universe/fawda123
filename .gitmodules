@@ -64,3 +64,8 @@
 	url = https://github.com/fawda123/EBASE
 	shallow = true
 	registered = true
+[submodule "fwoxy"]
+	path = fwoxy
+	url = https://github.com/jmarriola/fwoxy
+	shallow = true
+	registered = false
