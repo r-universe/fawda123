@@ -20,7 +20,7 @@
   },
   {
     "package": "WRTDStidal",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tbeptools"

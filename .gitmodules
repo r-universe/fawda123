@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/fawda123/universe
+	url = https://github.com/fawda123/fawda123.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "rStrava"]
@@ -30,7 +30,7 @@
 	registered = true
 [submodule "WRTDStidal"]
 	path = WRTDStidal
-	url = https://github.com/fawda123/wtreg_for_estuaries
+	url = https://github.com/fawda123/WRTDStidal
 	shallow = true
 	registered = true
 [submodule "tbeptools"]
