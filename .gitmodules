@@ -1,76 +1,48 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/fawda123/fawda123.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "rStrava"]
 	path = rStrava
 	url = https://github.com/fawda123/rStrava
-	shallow = true
-	registered = true
 [submodule "NeuralNetTools"]
 	path = NeuralNetTools
 	url = https://github.com/fawda123/NeuralNetTools
-	shallow = true
-	registered = true
 [submodule "SWMPr"]
 	path = SWMPr
 	url = https://github.com/fawda123/SWMPr
-	shallow = true
-	registered = true
 [submodule "ggord"]
 	path = ggord
 	url = https://github.com/fawda123/ggord
-	shallow = true
-	registered = true
 [submodule "imputeTestbench"]
 	path = imputeTestbench
 	url = https://github.com/neerajdhanraj/imputeTestbench
-	shallow = true
-	registered = true
 [submodule "WRTDStidal"]
 	path = WRTDStidal
 	url = https://github.com/fawda123/WRTDStidal
-	shallow = true
-	registered = true
 [submodule "tbeptools"]
 	path = tbeptools
 	url = https://github.com/tbep-tech/tbeptools
-	shallow = true
-	registered = true
 [submodule "wqtrends"]
 	path = wqtrends
 	url = https://github.com/tbep-tech/wqtrends
-	shallow = true
-	registered = true
 [submodule "peptools"]
 	path = peptools
 	url = https://github.com/tbep-tech/peptools
-	shallow = true
-	registered = true
 [submodule "WtRegDO"]
 	path = WtRegDO
 	url = https://github.com/fawda123/WtRegDO
-	shallow = true
 	branch = sine
-	registered = true
 [submodule "micromap"]
 	path = micromap
 	url = https://github.com/USEPA/micromap
-	shallow = true
-	registered = true
 [submodule "EBASE"]
 	path = EBASE
 	url = https://github.com/fawda123/EBASE
-	shallow = true
-	registered = true
 [submodule "MassWateR"]
 	path = MassWateR
 	url = https://github.com/massbays-tech/MassWateR
-	shallow = true
-	registered = true
 [submodule "fwoxy"]
 	path = fwoxy
 	url = https://github.com/jmarriola/fwoxy
-	shallow = true
 	registered = false
