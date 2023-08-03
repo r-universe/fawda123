@@ -2,47 +2,47 @@
 	path = .registry
 	url = https://github.com/fawda123/fawda123.r-universe.dev
 	branch = HEAD
-[submodule "rStrava"]
-	path = rStrava
-	url = https://github.com/fawda123/rStrava
-[submodule "NeuralNetTools"]
-	path = NeuralNetTools
-	url = https://github.com/fawda123/NeuralNetTools
-[submodule "SWMPr"]
-	path = SWMPr
-	url = https://github.com/fawda123/SWMPr
-[submodule "ggord"]
-	path = ggord
-	url = https://github.com/fawda123/ggord
-[submodule "imputeTestbench"]
-	path = imputeTestbench
-	url = https://github.com/neerajdhanraj/imputeTestbench
-[submodule "WRTDStidal"]
-	path = WRTDStidal
-	url = https://github.com/fawda123/WRTDStidal
-[submodule "tbeptools"]
-	path = tbeptools
-	url = https://github.com/tbep-tech/tbeptools
-[submodule "wqtrends"]
-	path = wqtrends
-	url = https://github.com/tbep-tech/wqtrends
-[submodule "peptools"]
-	path = peptools
-	url = https://github.com/tbep-tech/peptools
-[submodule "WtRegDO"]
-	path = WtRegDO
-	url = https://github.com/fawda123/WtRegDO
-	branch = sine
-[submodule "micromap"]
-	path = micromap
-	url = https://github.com/USEPA/micromap
 [submodule "EBASE"]
 	path = EBASE
 	url = https://github.com/fawda123/EBASE
 [submodule "MassWateR"]
 	path = MassWateR
 	url = https://github.com/massbays-tech/MassWateR
+[submodule "NeuralNetTools"]
+	path = NeuralNetTools
+	url = https://github.com/fawda123/NeuralNetTools
+[submodule "SWMPr"]
+	path = SWMPr
+	url = https://github.com/fawda123/SWMPr
+[submodule "WRTDStidal"]
+	path = WRTDStidal
+	url = https://github.com/fawda123/WRTDStidal
+[submodule "WtRegDO"]
+	path = WtRegDO
+	url = https://github.com/fawda123/WtRegDO
+	branch = sine
 [submodule "fwoxy"]
 	path = fwoxy
 	url = https://github.com/jmarriola/fwoxy
 	registered = false
+[submodule "ggord"]
+	path = ggord
+	url = https://github.com/fawda123/ggord
+[submodule "imputeTestbench"]
+	path = imputeTestbench
+	url = https://github.com/neerajdhanraj/imputeTestbench
+[submodule "micromap"]
+	path = micromap
+	url = https://github.com/USEPA/micromap
+[submodule "peptools"]
+	path = peptools
+	url = https://github.com/tbep-tech/peptools
+[submodule "rStrava"]
+	path = rStrava
+	url = https://github.com/fawda123/rStrava
+[submodule "tbeptools"]
+	path = tbeptools
+	url = https://github.com/tbep-tech/tbeptools
+[submodule "wqtrends"]
+	path = wqtrends
+	url = https://github.com/tbep-tech/wqtrends
