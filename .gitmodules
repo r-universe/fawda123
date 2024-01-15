@@ -40,6 +40,9 @@
 [submodule "rStrava"]
 	path = rStrava
 	url = https://github.com/fawda123/rStrava
+[submodule "tbeploads"]
+	path = tbeploads
+	url = https://github.com/tbep-tech/tbeploads
 [submodule "tbeptools"]
 	path = tbeptools
 	url = https://github.com/tbep-tech/tbeptools
