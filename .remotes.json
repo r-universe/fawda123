@@ -4,5 +4,11 @@
     "url": "https://github.com/jmarriola/fwoxy",
     "via": ["EBASE"],
     "from": "EBASE"
+  },
+  {
+    "package": "rnoaa",
+    "url": "https://github.com/ropensci/rnoaa",
+    "via": ["tbeptools"],
+    "from": "tbeptools"
   }
 ]
