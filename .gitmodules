@@ -20,7 +20,6 @@
 [submodule "WtRegDO"]
 	path = WtRegDO
 	url = https://github.com/fawda123/WtRegDO
-	branch = sine
 [submodule "ggord"]
 	path = ggord
 	url = https://github.com/fawda123/ggord
