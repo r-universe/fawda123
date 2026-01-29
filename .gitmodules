@@ -35,10 +35,6 @@
 [submodule "rStrava"]
 	path = rStrava
 	url = https://github.com/fawda123/rStrava
-[submodule "rnoaa"]
-	path = rnoaa
-	url = https://github.com/ropensci/rnoaa
-	registered = false
 [submodule "slrcsap"]
 	path = slrcsap
 	url = https://github.com/tbep-tech/slrcsap
