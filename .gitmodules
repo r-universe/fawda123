@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/fawda123/fawda123.r-universe.dev
 	branch = HEAD
+[submodule "AquaSensR"]
+	path = AquaSensR
+	url = https://github.com/massbays-tech/AquaSensR
 [submodule "EBASE"]
 	path = EBASE
 	url = https://github.com/fawda123/EBASE
